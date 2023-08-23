@@ -1,1 +1,1 @@
-# story-books
+A platform that gives you the ability to publish and monetize posts on the web.
